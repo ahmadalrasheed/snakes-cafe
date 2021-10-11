@@ -1,5 +1,5 @@
 # this is my first project in 401
 
-click on the word [link]() to deleiver you to my PL
+click on the word [link](https://github.com/ahmadalrasheed/snakes-cafe/pull/1) to deleiver you to my PL
 
-PL link:
+PL link:https://github.com/ahmadalrasheed/snakes-cafe/pull/1
